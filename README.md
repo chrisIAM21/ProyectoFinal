@@ -8,8 +8,10 @@
 
 # Introducción
 
-Nuestro proyecto se trata de una aplicación Web, desarrollada utilizando el framework Django. En ésta aplicación el usuario puede hacer reservaciones para un restaurante.
+Nuestro proyecto se trata de una aplicación Web, desarrollada utilizando el framework Django. En ést![tierra_desde_luna](https://user-images.githubusercontent.com/100398389/204074942-6bd429f0-a83d-4a80-a382-c2178cee2cea.jpg)
+a aplicación el usuario puede hacer reservaciones para un restaurante.
 El propósito principal de este proyecto, es que la aplicación desarrollada sea tolerante a fallos haciendo uso de herramientas como lo son Docker, Kubernetes y OpenShift.
+![Uploading tierra_desde_luna.jpg…]()
 
 ## Instalación
 

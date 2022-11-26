@@ -1,9 +1,10 @@
 # Proyecto Final Computación Tolerante a Fallas
 
 **Integrantes** 🧑‍🤝‍🧑
-Carlos Martín García Madrigal
-Uziel Cornejo Olivares
-Christopher Iván Andrade Mendoza
+
+- Carlos Martín García Madrigal
+- Uziel Cornejo Olivares
+- Christopher Iván Andrade Mendoza
 
 # Introducción
 

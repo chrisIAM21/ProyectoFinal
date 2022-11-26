@@ -29,7 +29,11 @@ Entonces ya tendremos el proyecto funcionando con Docker y kubernetes dentro de 
 
 
 ## Capturas de pantalla
+![dockerfile](https://user-images.githubusercontent.com/100398389/204075334-a54bab4e-86de-4b8e-b785-bd2e1e1d0f03.jpg)
 
+![docker](https://user-images.githubusercontent.com/100398389/204075340-8d4d98a4-9ba8-4a73-aebb-5e5fdf361622.jpg)
+
+![sitio1](https://user-images.githubusercontent.com/100398389/204075343-711c28d0-ee3d-4b06-89d3-ee319c2b3d2a.jpg)
 
 
 ## Herramientas utilizadas

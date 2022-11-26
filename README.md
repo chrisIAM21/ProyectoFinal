@@ -25,8 +25,9 @@ El propósito principal de este proyecto, es que la aplicación desarrollada sea
 1) Para poder correrlo en openshift primero necesitamos crear nuestra imagen de manera publica en el cloud de docker, para ello necesitaremos realizar un docker image build -t TuNombreDeUsuario/NombreDeLaImagen:IdImagen. Teniendo esto nos dirigimos a la pagino de docker.io, en la cual tendremos que iniciar sesión.
 2) Habiendo hecho esto tendremos que copiar la direccion de nuestra imagen y dirigirnos a openshift
 3) Necesitaremos de una cuenta en Openshift: https://www.redhat.com/en/technologies/cloud-computing/openshift
-4) Después iremos a la sección "Add" para añadir el proyecto mediante un repositorio desde Docker, en este caso el repositorio es: 
-5) Esperamos a que se construya la imagen dentro de OpenShift, y entonces podremos acceder al sitio Web desde el enlace generado.
+4) Después iremos a la sección "Add" para añadir el proyecto mediante un repositorio desde Docker, y ponemos la direccion de la imagen junto con sus configuraciones correspondientes.
+5) Esperamos a que se construya la imagen dentro de OpenShift, y se nos habra creada nuestra aplicacion en la cual podemos iniciar dandole click y veremos nuestra aplicacion web sin problemas.
+
 Entonces ya tendremos el proyecto funcionando con Docker y kubernetes dentro de OpenShift, y dentro tenemos diferentes herramientas de monitorización para nuestro proyecto, así como funciones más avanzadas para manejar la tolerancia a fallas del programa.
 
 

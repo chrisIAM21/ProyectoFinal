@@ -30,9 +30,6 @@ El propósito principal de este proyecto, es que la aplicación desarrollada sea
 
 Entonces ya tendremos el proyecto funcionando con Docker y kubernetes dentro de OpenShift, y dentro tenemos diferentes herramientas de monitorización para nuestro proyecto, así como funciones más avanzadas para manejar la tolerancia a fallas del programa.
 
-
-## Capturas de pantalla
-
 ![sitio1](https://user-images.githubusercontent.com/100398389/204075343-711c28d0-ee3d-4b06-89d3-ee319c2b3d2a.jpg)
 
 ## Herramientas utilizadas

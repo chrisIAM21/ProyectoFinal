@@ -37,4 +37,5 @@ Entonces ya tendremos el proyecto funcionando con Docker y kubernetes dentro de 
 - Django
 - Docker
 - Kubernetes
+- Istio
 - OpenShift

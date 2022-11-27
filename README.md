@@ -6,12 +6,12 @@
 - Uziel Cornejo Olivares
 - Christopher Iván Andrade Mendoza
 
-# Introducción
+# Introducción 📝
 
 Nuestro proyecto se trata de una aplicación Web, desarrollada utilizando el framework Django. En ésta aplicación el usuario puede hacer reservaciones para un restaurante.
 El propósito principal de este proyecto, es que la aplicación desarrollada sea tolerante a fallos haciendo uso de herramientas como lo son Docker, Kubernetes y OpenShift.
 
-## Instalación local
+## Instalación local 🔨
 
 1) Primeramente para correr nuestra aplicacion tenemos que crear un entorno virtual con python, la cual ya estando en el nos dirigimos a la carpeta de nuestro proyecto y por medio de la terminal usamos el comando python manage.py runserver el cual nos servira para correr la aplicacion.
 
@@ -20,7 +20,7 @@ El propósito principal de este proyecto, es que la aplicación desarrollada sea
 3) Ahora teniendo esto tenemos que realizar algunos comandos en la terminal como docker build -t restaurant . y para ver si quedo todo perfecto tenemos que usar el comando docker run -p 8000:8000 restaurant y si ingresamos a la ruta http://127.0.0.1:8000/ nos cargara nuestra aplicacion web sin problemas, mostrandonos en la terminal las requests que hacemos.
 
 
-## Implementación en OpenShift
+## Implementación en OpenShift 💻
 
 1) Para poder correrlo en openshift primero necesitamos crear nuestra imagen de manera publica en el cloud de docker, para ello necesitaremos realizar un docker image build -t TuNombreDeUsuario/NombreDeLaImagen:IdImagen. Teniendo esto nos dirigimos a la pagino de docker.io, en la cual tendremos que iniciar sesión.
 2) Habiendo hecho esto tendremos que copiar la direccion de nuestra imagen y dirigirnos a openshift
@@ -32,7 +32,7 @@ Entonces ya tendremos el proyecto funcionando con Docker y kubernetes dentro de 
 
 ![sitio1](https://user-images.githubusercontent.com/100398389/204075343-711c28d0-ee3d-4b06-89d3-ee319c2b3d2a.jpg)
 
-## Herramientas utilizadas
+## Herramientas utilizadas🛠
 
 - Django
 - Docker

@@ -23,7 +23,7 @@ El propósito principal de este proyecto, es que la aplicación desarrollada sea
 ## Implementación en OpenShift 💻
 
 1) Debemos tener nuestro proyecto completo dentro de un repositorio en GitHub, el cual nos servirá para posteriormente poder vincularlo con la plataforma de OpenShift.
-2) Habiendo hecho esto tendremos que copiar la direccion de nuestra imagen y dirigirnos a openshift
+2) Habiendo hecho esto tendremos que copiar la direccion de nuestro proyecto y dirigirnos a openshift.
 3) Necesitaremos de una cuenta en Openshift: https://www.redhat.com/en/technologies/cloud-computing/openshift
 4) Después iremos a la sección "Add" para añadir el proyecto mediante un repositorio desde GitHub, y ponemos la direccion de la imagen junto con sus configuraciones correspondientes.
 5) Esperamos a que se construya la imagen dentro de OpenShift, y se nos habra creada nuestra aplicacion en la cual podemos iniciar dandole click y veremos nuestra aplicacion web sin problemas.

@@ -39,10 +39,16 @@ Entonces ya tendremos el proyecto funcionando con Docker y kubernetes dentro de 
 2) Descargamos el repositorio de richstokes a nuestro ordenador, el cual contiene todos los archivos para ejecutar Cheeky Monkey.
 3) Dentro de la carpeta de los archivos, ejecutamos el siguiente comando en una terminal:
 
-pip install -r requirements.txt
+>pip install -r requirements.txt
 
 De esta forma se instalará  todo lo necesario para ejecutar el programa
 ![image](https://user-images.githubusercontent.com/100398389/205413032-609722ca-9493-44ea-9bd4-0173c1d8fff7.png)
+
+Una vez instalados los requerimientos, ya podemos correr el programa con el siguiente comando:
+
+>python cheekymonkey.py
+
+![image](https://user-images.githubusercontent.com/100398389/205413063-71d43eb7-b16e-4f1a-a56a-ca075b7d4b16.png)
 
 
 

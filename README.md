@@ -32,6 +32,20 @@ Entonces ya tendremos el proyecto funcionando con Docker y kubernetes dentro de 
 
 ![sitio1](https://user-images.githubusercontent.com/100398389/204075343-711c28d0-ee3d-4b06-89d3-ee319c2b3d2a.jpg)
 
+
+## Verificamos la robustez de nuestra webApp 💻
+
+1) Visitamos el siguiente repositorio: https://github.com/richstokes/cheekymonkey
+2) Descargamos el repositorio de richstokes a nuestro ordenador, el cual contiene todos los archivos para ejecutar Cheeky Monkey.
+3) Dentro de la carpeta de los archivos, ejecutamos el siguiente comando en una terminal:
+
+pip install -r requirements.txt
+
+De esta forma se instalará  todo lo necesario para ejecutar el programa
+
+![image](https://user-images.githubusercontent.com/100398389/205412954-d693ff29-577b-42bb-a6d4-7fdea9854ab1.png)
+
+
 ## Herramientas utilizadas🛠
 
 - Django

@@ -57,7 +57,7 @@ Una vez instalados los requerimientos, ya podemos correr el programa con el sigu
 
 ![image](https://user-images.githubusercontent.com/100398389/205413319-f34f4a8c-d6c1-44dc-b468-b1b93e5287f5.png)
 
-Demostración en video:
+Demostración en video: https://youtu.be/17w8nXz66dc
 
 Destruimos pods dentro de Cheeky Monkey: 
 

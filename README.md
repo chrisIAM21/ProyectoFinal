@@ -31,6 +31,13 @@ El propósito principal de este proyecto, es que la aplicación desarrollada sea
 Entonces ya tendremos el proyecto funcionando con Docker y kubernetes dentro de OpenShift, y dentro tenemos diferentes herramientas de monitorización para nuestro proyecto, así como funciones más avanzadas para manejar la tolerancia a fallas del programa.
 
 ![sitio1](https://user-images.githubusercontent.com/100398389/204075343-711c28d0-ee3d-4b06-89d3-ee319c2b3d2a.jpg)
+![image](https://user-images.githubusercontent.com/100398389/205413742-ff4648d0-c40e-44c8-8855-04e63453e75a.png)
+![image](https://user-images.githubusercontent.com/100398389/205413746-015f0cda-d40c-4c2a-88d3-8ced1f225970.png)
+![image](https://user-images.githubusercontent.com/100398389/205413749-5a2a79e6-fc8f-4381-a3d5-243aa93ac3e4.png)
+![image](https://user-images.githubusercontent.com/100398389/205413755-d600c41d-bb0b-48b5-98cf-5cb948defc9a.png)
+![image](https://user-images.githubusercontent.com/100398389/205413760-f22ff852-f06c-4676-9a39-ae7562b7d26b.png)
+
+Video de la WebApp: https://youtu.be/0z8B3hOwRAk
 
 
 ## Verificamos la robustez de nuestra webApp 💻

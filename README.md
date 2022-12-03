@@ -48,8 +48,15 @@ Una vez instalados los requerimientos, ya podemos correr el programa con el sigu
 
 >python cheekymonkey.py
 
-![image](https://user-images.githubusercontent.com/100398389/205413063-71d43eb7-b16e-4f1a-a56a-ca075b7d4b16.png)
+![image](https://user-images.githubusercontent.com/100398389/205413319-f34f4a8c-d6c1-44dc-b468-b1b93e5287f5.png)
 
+Demostración en video:
+
+Destruimos pods dentro de Cheeky Monkey: 
+
+![image](https://user-images.githubusercontent.com/100398389/205413535-3286ebab-434a-4bac-b8fb-d5c8d79389c5.png)
+![image](https://user-images.githubusercontent.com/100398389/205413539-e5b448d1-40a5-4dac-a584-621a9e195223.png)
+![image](https://user-images.githubusercontent.com/100398389/205413544-a016592a-2878-458f-bc4f-a4773c4062a6.png)
 
 
 ## Herramientas utilizadas🛠

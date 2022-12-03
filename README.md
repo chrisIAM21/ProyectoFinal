@@ -42,8 +42,8 @@ Entonces ya tendremos el proyecto funcionando con Docker y kubernetes dentro de 
 pip install -r requirements.txt
 
 De esta forma se instalará  todo lo necesario para ejecutar el programa
+![image](https://user-images.githubusercontent.com/100398389/205413032-609722ca-9493-44ea-9bd4-0173c1d8fff7.png)
 
-![image](https://user-images.githubusercontent.com/100398389/205412954-d693ff29-577b-42bb-a6d4-7fdea9854ab1.png)
 
 
 ## Herramientas utilizadas🛠
